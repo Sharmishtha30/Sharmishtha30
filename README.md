@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sharmishtha Sharma
 
-<!--
-**Sharmishtha30/Sharmishtha30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Manager · B2B SaaS · Product Builder**
 
-Here are some ideas to get you started:
+I build tools for the teams that run revenue and operations. My work spans CRM, affiliate management, voice and calling, reporting, and AI-assisted workflows. I work across customer discovery, product strategy, prototyping, and delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **[Mindmap editor](case-studies.md#mindmap-editor--product-build)** — A workspace for organizing research, with reversible branch editing and saved boards.
+- **[Affiliate management](case-studies.md#affiliate-management--b2b-saas-product-work)** — A zero-to-one CRM product for running and tracking affiliate programs.
+
+## Reusable skill
+
+- **[AI workflow evaluation](skills/ai-workflow-evaluation/SKILL.md)** — A practical template for designing synthetic test cases, scoring outputs, and deciding when to release an AI workflow.
+
+[Résumé](resume.md) · [LinkedIn](https://www.linkedin.com/in/sharmishthaas/)
